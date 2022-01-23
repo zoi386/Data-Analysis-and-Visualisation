@@ -10,3 +10,5 @@ Correlation between columns have been represented by heatmap.
 
 ![image](https://user-images.githubusercontent.com/60197005/150678380-4541fd33-a976-4595-9337-6c36db499013.png)
 
+It is obvious that on nation happiness biggest impact have financial security that steams from high GDP or strong Economy, Health and a little less Freedom, while Trust (Goverment Corruption) and Generosity have less than 0.5 coefficient of correlation with Happines Score.
+
