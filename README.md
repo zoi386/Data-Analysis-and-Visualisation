@@ -28,6 +28,8 @@ This graph show us how many times cearten country was amoungs 10 least happy cou
 Data from bottom of the set are more diverse, that is whay we have more countries amoung the teen last positioned. 
 ![image](https://user-images.githubusercontent.com/60197005/150678795-f4219de9-870d-452e-ad3d-645585086248.png)
 
+Thank you, that would be all. Compleate work about this representaion You can find in notebook.
+
 Fanialy we have them all on world map as well.
 ![image](https://user-images.githubusercontent.com/60197005/150678907-6d8ff3d5-51a2-430e-b23c-0473c5aacebf.png)
 
